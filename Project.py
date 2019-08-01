@@ -39,6 +39,7 @@ os.makedirs('2019/12')
 
 
 
+
 # ---- Yearly Folder Script with Opposite Pattern----
 # Import libraries
 import requests 
