@@ -39,6 +39,8 @@ for i in files:
     #print(directory+file_name)
 	open(directory+file_name,'w',encoding='utf-8').write(content)
     
-#Visual Studio code was the code editor, solution is written in python 3.2
-#To see the created changes see the directory path to where Visual Studio Code is linked to, for example for me it was in desktop folder
-#in a folder named 'python' 
+#Visual Studio code was the code editor/IDLE, solution is written in python 3.2
+#To see the created changes see the directory PATH to where Visual Studio Code is linked to, for example for me it was in desktop folder
+#in a folder named 'python', PATH needs to be added and correct for changes to be seen when running script
+#This is a web scraping project in Python 3.2 using beautiful soup library, project will take downloadable html 
+#files and organize them into folders and sub folders by date locally on the desktop when script is run
